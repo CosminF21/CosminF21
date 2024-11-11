@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @CosminF21
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning angular, RxJS, Type Script, Java, Spring Boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @CosminCofan
 
 <!---
 CosminF21/CosminF21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
